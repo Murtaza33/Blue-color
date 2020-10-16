@@ -8,6 +8,12 @@ body {
   background-size: cover;
   background-color: lightblue;
 }
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
 img {
   margin-right: right;
   height: 460px;

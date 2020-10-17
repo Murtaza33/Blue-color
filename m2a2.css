@@ -6,6 +6,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
+  border: 50px solid rgb(236, 252, 236);
+  padding: 130px;
 }
 .content {
   max-width: 1900px;

@@ -1,11 +1,12 @@
 body {
-  margin: 0;
+  margin: 2;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 22px;
-  background-image: url('.jpg');
+  background-image: url('sky.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-color: lightblue;
 }
 img {
   margin-right: right;

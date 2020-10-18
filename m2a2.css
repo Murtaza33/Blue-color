@@ -1,12 +1,10 @@
 body {
-  margin: 0;
+  margin: 20;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 22px;
-  background-image: url('sky.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
-  border: 80px solid rgb(236, 252, 236);
   padding: 130px;
 }
 .content {
@@ -17,12 +15,11 @@ body {
 }
 img {
   margin-right: right;
-  height: 460px;
+  height: 470px;
 }
 h1{
     color: lightblue;
-    text-align: center;
-
+    text-align: left;
 }
 .blue{
   color:blue;
@@ -32,13 +29,13 @@ h1{
   background-color: rgb(0, 0, 0);
   position: fixed;
   top:0;
-  width: 130%;
+  width: 1100px;
 }
 .topnav a {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 18px 35px;
+  padding: 16px 30px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -49,6 +46,6 @@ h1{
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: rgb(9, 243, 48);
   color: white;
 }

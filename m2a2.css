@@ -6,6 +6,7 @@ body {
   background-attachment: fixed;  
   background-size: cover;
   padding: 130px;
+  background-color: lightyellow;
 }
 .content {
   max-width: 1700px;

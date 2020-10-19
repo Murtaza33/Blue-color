@@ -6,7 +6,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   padding: 130px;
-  background-color: lightyellow;
+  background-color: white;
 }
 .content {
   max-width: 1700px;
@@ -29,11 +29,8 @@ h1{
   overflow: auto;
   background-color: rgb(0, 0, 0);
   position: fixed;
-<<<<<<< HEAD
-=======
   top:0;
   width: 1100px;
->>>>>>> da42a943291d7064a150529a2aa3db0eda037374
 }
 .topnav a {
   float: left;

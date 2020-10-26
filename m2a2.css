@@ -1,17 +1,27 @@
+#wrapper {
+  background-color: white;
+  top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 0px 0px 30px;
+ 
+}
 body {
-  margin: 2;
+  margin-top: 0px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 22px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  padding: 130px;
-  background-color: white;
+  padding: 120px;
+  background-color: dodgerblue;
 }
+
 .content {
+  background-color: blueviolet;
+	color: #ffffff;
   max-width: 1700px;
   margin: auto;
-  background: white;
   padding: 80px;
 }
 img {
@@ -19,24 +29,26 @@ img {
   height: 470px;
 }
 h1{
-    color: blue;
+    color: darkblue;
     text-align: left;
 }
 .blue{
-  color:darkblue;
+  color:blue;
 }
 .topnav {
   overflow: auto;
-  background-color: rgb(0, 0, 0);
+  background-color: black;
   position: fixed;
   top:0;
-  width: 1100px;
+  width: 1093px;
+  margin-left: -30px;
+  margin-right: auto;
 }
 .topnav a {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 16px 30px;
+  padding: 20px 70px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -47,6 +59,6 @@ h1{
 }
 
 .topnav a.active {
-  background-color: rgb(9, 243, 48);
+  background-color: #8f1f80;
   color: white;
 }
